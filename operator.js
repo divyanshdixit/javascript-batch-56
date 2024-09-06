@@ -23,3 +23,18 @@ null === undefined => false
 
 ( 3 >= 3) ? 'true' : ( 3 < 4) ? 'tru1' : 'false1'
 
+// concat: +
+
+// 1st
+
+10 + 10 // 20
+
+// 2nd
+
+10 + '10' => '1010'
+
+10 * '10divyansh' => NaN (not a number)
+
+10 * 10 
+
+'10' + 20 => 1020

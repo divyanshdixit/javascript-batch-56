@@ -1,0 +1,19 @@
+js is case senstive 
+
+js synchronous lang 
+
+clg('1'); // 2 sec
+clg('2'); // 1 sec
+
+1
+2
+
+js asynchronous 
+
+clg('1'); // 2 sec
+clg('2'); // 1 sec
+
+// 2
+// 1
+
+callback => promise => async/await
