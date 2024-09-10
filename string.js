@@ -85,7 +85,11 @@ str3.substring(11)
 
 // to break the string:
 
-// split()
+// split() => to convert string into array
+// split('') => empty stirng => word's char break
+// split('delimeter') => break string from delimeter
+
+// remove extra white spaces from start and end of the string:
 
 // trim()
 // trimStart()

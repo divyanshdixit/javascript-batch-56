@@ -1,0 +1,6 @@
+make a calc object and perform airthmatic operation while
+making sepeate function for all methods:
+
+reverse a given string: 'divyansh' => 'hsnayvid'
+
+remove duplicate items from array:

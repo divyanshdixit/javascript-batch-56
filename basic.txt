@@ -17,3 +17,12 @@ clg('2'); // 1 sec
 // 1
 
 callback => promise => async/await
+
+
+babel 
+ES5 => ES6
+
+var x = 'divyansh' // es6  // string 
+var x = new String('divyansh'); // object
+
+var obj = new Object()
