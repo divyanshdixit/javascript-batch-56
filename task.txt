@@ -1,6 +1,11 @@
 make a calc object and perform airthmatic operation while
 making sepeate function for all methods:
 
-reverse a given string: 'divyansh' => 'hsnayvid'
+swapping of 2 variables (with using 3rd var, without using)
+reverse a given string: 'divyansh' => 'hsnayvid' without uisng inbuilt function
 
 remove duplicate items from array:
+[10,1,20,4,1,4,10]
+
+Set()
+[10,20,1,4]
