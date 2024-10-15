@@ -9,3 +9,16 @@ remove duplicate items from array:
 
 Set()
 [10,20,1,4]
+
+1- count the duplicate item and get indexes for every duplicate element
+[10,1,20,4,1,4,10]
+
+o/p: {1:2, 4:2, 10:2}
+o/p: {1:[1,4], 4: [3,5], 10: [0,6]}
+
+2- reverse number ,
+
+3- find out if given string or number is palindrome or not;
+121 1001
+dvd
+o/p: if palindrome then true else false 
